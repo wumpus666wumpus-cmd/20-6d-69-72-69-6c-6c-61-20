@@ -1,0 +1,1 @@
+console.log("\x1b[31m%s\x1b[0m", "El abismo te consume y nunca podrás escapar, nunca, nunca, ¿Nunca...?");
